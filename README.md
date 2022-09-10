@@ -15,7 +15,7 @@ please note: there is a server.rar file to extract and get the server data files
 
 ## Project setup
 
-you can run npm start to start the server & npm install to get node modules.
+you can run npm start at server file to start the server & npm install to get node modules.
 
 ```
 npm start
